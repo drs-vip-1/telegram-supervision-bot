@@ -28,8 +28,8 @@ from telegram.ext import (
 from telegram.constants import ParseMode
 
 # Configuration
-BOT_TOKEN = "8482127636:AAHHkNxXGWgRZ38XQkXuzy-SnKGHlSctrWc"
-ADMIN_IDS = [7944546217]  # Replace with actual admin Telegram IDs
+BOT_TOKEN = "توكن البوت"
+ADMIN_IDS = [ايدي المستخدم ]  # Replace with actual admin Telegram IDs
 DATABASE_NAME = "bot_database.db"
 
 # States
